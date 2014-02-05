@@ -1,4 +1,5 @@
->> |||   Legalia WebApp   ||| <<
+Legalia WebApp
+===============
 
 Legalia WebApp is a web application created using PHP
 It´s purpose is to serve as GUI to a database.
@@ -14,9 +15,7 @@ allow for an easier tracking of the proyect and bring improvement
 upon future proyects.
 
 
--------------------------------------
->> Full Basic Functionality (BETA) <<
--------------------------------------
+>> Full Basic Functionality (BETA)
 
 	Abogados
 		* Create
@@ -59,14 +58,10 @@ upon future proyects.
 	Trabaja
 		X AUXILIAR + CASO
 
--------------------------------------
->> ------------------------------- <<
--------------------------------------
 
 
 -------------------------------------
->>         Version History         <<        
--------------------------------------
+>>         Version History      
 
 
 v0.1 Alpha (December 24th, 2013 - 18:00)
@@ -132,7 +127,3 @@ v0.8 Alpha "Colorful Day" (January 00th, 2014 - 00:00)
 	- Major visual overhaul. Intensive CSS work.
 	- Implemented CSS3 visual styles.
 	-
-
--------------------------------------
->> ------------------------------- <<
--------------------------------------
