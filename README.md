@@ -59,9 +59,7 @@ upon future proyects.
 		X AUXILIAR + CASO
 
 
-
--------------------------------------
->>         Version History      
+>> Version History      
 
 
 v0.1 Alpha (December 24th, 2013 - 18:00)
